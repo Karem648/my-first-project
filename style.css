@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    max-width: 1500px;
+    min-width: 300px;
+}
+h1{
+   color: white; 
+   font-size: x-large;
+   font-style: oblique;
+   margin: 10px;
+   text-decoration: underline;
+   border: 4px white dashed;
+   padding: 10px;
+   padding-left: 250px;
+}
+img{
+    border-radius: 50px;
+    max-width: 200px;
+    border: 4px white dashed;
+}
+p{
+    color: white;
+    padding: 10px;
+}
+#first{
+    color: white;
+    font-size: large;
+    padding: 10px;
+}
+hr{
+    border-width: 4px;
+    border-color: white;
+    border-style: dashed;
+}
+ul{
+    list-style: none;
+    color: white;
+    padding: 10px;
+}
+#hr-last{
+    border-style: dotted;
+}
+span{
+    font-weight: 900;
+    font-style: italic;
+}
+#main{
+    background-color: black;
+    border: 4px dashed;
+    width: 60%;
+    border-color: white;
+    margin-left: 10px;
+    margin-top: 10px;
+}
